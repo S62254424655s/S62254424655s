@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandeep Reddy
 - 👀 I’m interested in Git
-- 🌱 I’m currently learning Learning devops
+- 🌱 I’m currently Learning devops
 - 📫 How to reach me sandeepreddygaddam1000@gmail.com
 
 <!---
